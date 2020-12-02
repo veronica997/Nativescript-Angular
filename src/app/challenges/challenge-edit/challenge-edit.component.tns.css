@@ -1,0 +1,25 @@
+/* Add mobile styles for the component here.  */
+
+
+/*TextField {
+    width: 66%;
+}*/
+
+.btn {
+    background: pink;
+    border-width: 1;
+    border-color: violet;
+    color: white;
+    width: 25%;
+    padding: 5 10;
+    border-radius: 30%;
+    margin: 5 0;
+}
+
+.form-control {
+    border-bottom-color: deeppink;
+    border-bottom-width: 2;
+    margin: 5 0;
+    font-size: 20;
+    padding: 8 4;
+}
